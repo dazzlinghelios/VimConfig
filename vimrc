@@ -4,6 +4,7 @@ set expandtab
 set tabstop=4
 set background=dark
 set t_Co=256
+set number
 syntax on
 filetype plugin indent on
 
