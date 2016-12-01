@@ -1,6 +1,6 @@
 Installation:
 	
-	git clone git://github.com/merlin6666/VimConfig.git ~/.vim
+	git clone git://github.com/dazzlinghelios/VimConfig.git ~/.vim
 
 Create symlinks:
 	
